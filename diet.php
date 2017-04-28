@@ -58,7 +58,22 @@ In contrast, fruits, vegetables, beans, and whole grain breads have what you mig
         
         <h4> Diet and Exercise: a Winning Combination</h4>
       <p>A healthy diet and a rigorous exercise routine are the perfect combination to help us look and feel our best. Combining the two of these is the best way to get in shape and feel great.</p>
-      
+       <br>
+        <h4>Calculate your BMI</h4>
+        <div class="yz-widget" data-calculator-type="bmi" data-language="en" data-unit-system="metric" data-background-color="#EEEEEE" data-text-color="#212121" data-primary-color="#03A9F4" data-alternate-background-color="#FFFFFF" data-alternate-text-color="#FFFFFF" data-secondary-color="#FFC107"><span class="yz-copyright">Powered by <a href="https://www.yazio.com/en/bmi-calculator">YAZIO</a></span></div>
+<script src="https://widget.yazio.com/calculator.js" async></script>
+        <br>
+        <h4>Calculate your ideal body weight</h4>
+        <div class="yz-widget" data-calculator-type="ideal_weight" data-language="en" data-unit-system="metric" data-background-color="#EEEEEE" data-text-color="#212121" data-primary-color="#03A9F4" data-alternate-background-color="#FFFFFF" data-alternate-text-color="#FFFFFF" data-secondary-color="#FFC107"><span class="yz-copyright">Powered by <a href="https://www.yazio.com/en/ideal-weight-calculator">YAZIO</a></span></div>
+<script src="https://widget.yazio.com/calculator.js" async></script>
+        <br>
+        <h4>Calculate your calorie daily intake</h4>
+        <div class="yz-widget" data-calculator-type="daily_need" data-language="en" data-unit-system="metric" data-background-color="#EEEEEE" data-text-color="#212121" data-primary-color="#03A9F4" data-alternate-background-color="#FFFFFF" data-alternate-text-color="#FFFFFF" data-secondary-color="#FFC107"><span class="yz-copyright">Powered by <a href="https://www.yazio.com/en/calorie-intake-calculator">YAZIO</a></span></div>
+<script src="https://widget.yazio.com/calculator.js" async></script>
+        <br>
+        <h4>Calculate the amount of calories burned</h4>
+        <div class="yz-widget" data-calculator-type="calories_burned" data-language="en" data-unit-system="metric" data-background-color="#EEEEEE" data-text-color="#212121" data-primary-color="#03A9F4" data-alternate-background-color="#FFFFFF" data-alternate-text-color="#FFFFFF" data-secondary-color="#FFC107"><span class="yz-copyright">Powered by <a href="https://www.yazio.com/en/calories-burned-calculator">YAZIO</a></span></div>
+<script src="https://widget.yazio.com/calculator.js" async></script>
       
       
       
