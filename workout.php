@@ -61,11 +61,11 @@
       </ul>
     </article>
     <article class="grid_8">
-      <h3>Workout</h3>
+          <h3>Workout</h3>
+          <iframe width="1000" height="715" src="https://www.youtube.com/embed/iMC357SGNCs" frameborder="0" allowfullscreen></iframe>
       <ul class="list-recipes">
         <li>
-          <figure class="box-img"><img src="images/page3-img1.jpg" alt=""></figure>
-          <div class="overflow">
+         <div class="overflow">
             <h4>Beginners, here are the 10 most important training elements you must master, and eight-week full-body beginner's program to start you off on the right foot.</h4> <br>
                           <p>If you are a beginner the routine below is ideal for you. DO NOT imitate routines of advanced bodybuilders! You'll only grow LESS in MORE time! Combined with performance nutrition, smart and hard training and sufficient rest a "lean tissue" gain of 24-36 pounds is realistic in the first two years of consistent training.</p>
              
